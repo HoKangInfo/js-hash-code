@@ -1,0 +1,27 @@
+{
+  "name": "js-hash-code",
+  "version": "1.0.0",
+  "description": "generate a javascript object hash coe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoKangInfo/js-hash-code.git"
+  },
+  "keywords": [
+    "hash",
+    "object",
+    "javascript"
+  ],
+  "author": "Robin JH Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HoKangInfo/js-hash-code/issues"
+  },
+  "homepage": "https://github.com/HoKangInfo/js-hash-code#readme",
+  "dependencies": {
+    "crc": "^3.4.4"
+  }
+}
